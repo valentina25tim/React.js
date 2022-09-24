@@ -1,0 +1,13 @@
+
+.ob__offer{
+    float: left;
+    margin: 6px 6px 1.5px 6px;
+    width: calc(100% - 238px);
+    background: #FFFFFF;
+    border: 0px ;
+    padding-top: 18px;
+}
+
+.ob__paggination{
+    justify-content: center;
+}

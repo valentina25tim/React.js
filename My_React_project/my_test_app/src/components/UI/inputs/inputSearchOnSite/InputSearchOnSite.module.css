@@ -1,0 +1,30 @@
+.bs__search_button{
+    /* Figure */
+    box-sizing: border-box;
+    width: 184px;
+    height: 38px;
+    background: #FFFFFF;
+    border: 1px solid #919191;
+    border-radius: 10px;
+    border-color:#919191;
+
+     /* Text */
+     text-align: right;
+     margin-right: 4px;
+     font-family: 'Akshar';
+     font-style: normal;
+     font-size: 20px;
+     line-height: 33px;
+     color: #919191;
+     cursor: pointer;
+     padding-right: 32px;
+}
+
+.bs__search_image{
+    /* Images */
+    width: 22px;
+    float: right;
+    margin: 8px 8px 0px -32px;
+    position:absolute;
+    cursor: pointer;
+}

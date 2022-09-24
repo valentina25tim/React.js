@@ -1,0 +1,32 @@
+.page__wrapper {
+    display: flex;
+}
+
+.page {
+    padding: 10px;
+    border: 0px;
+    cursor: pointer;
+    height: 30px;
+    width: 30px;
+
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    color: #919191;
+    line-height: 10px;
+}
+.page__current {
+    border: 2px solid #EF8F00;
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+    padding: 10px;
+    cursor: pointer;
+/* text */
+    font-weight: bold;
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    color:  #000000;
+    line-height: 10px;
+}

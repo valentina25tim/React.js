@@ -1,0 +1,98 @@
+.login__BackGr{
+    background: url(./loginBackGr.jpg) no-repeat center center ;
+    background-size: cover;
+}
+.login__frame{
+    background:#B1CAD4; 
+    border-radius: 15px;
+    width: 50%;
+    height: 386px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.login__form{
+    background:#FFFAFA;
+    width: calc(100% - 16px);
+    height: 336px;
+    position: absolute;
+    top: 30px;
+    left: 8px;
+}
+.login__title{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 56px;
+    text-align: center;
+    color:  #919191;
+}
+.login__horiz{
+    position: absolute;
+    border: 0px;
+    background: #B1CAD4;
+    height: 8px;
+    width: 100%;
+    top: 50px;
+    left: 0px;
+}
+.button_div_under{
+    position: absolute;
+    border: 0px;
+    width: 100%;
+    top: 280px;
+}
+.button_div{
+    position: absolute;
+    border: 0px;
+    width: 100%;
+    top: 85px;
+}
+.login__div_input{
+    padding: 25px;
+    width: 100%;
+    height: calc(100% - 58px);
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.login__text_inside{
+    font-family: 'Akshar';
+    font-style: italic;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: top;
+    color:  #E22C2C;
+}
+.login__text_error{
+    font-family: 'Akshar';
+    font-size: 10px;
+    text-align: right;
+    line-height: -5px;
+    vertical-align: top;
+    color: #919191;
+}
+.login__question{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+    color:  #919191;
+}
+.login__link_text{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #0A66C2;
+    text-decoration: underline;
+    
+    position: absolute;
+    border: 0px;
+    background:#FFFFFF;
+    top: 300px;
+    cursor: pointer;
+    width: 50%;
+    left: 25%;
+}
+

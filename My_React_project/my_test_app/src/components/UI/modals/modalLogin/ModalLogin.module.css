@@ -1,0 +1,22 @@
+.ml__modal{
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    display: none;
+    background: rgba(0,0,0,0.5);
+}
+.ml__content{
+    
+    padding: 25px;
+    background: white;
+    border-radius: 10px;
+    min-width: 250px;
+}
+.ml__active{
+    position:absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

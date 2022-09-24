@@ -1,0 +1,43 @@
+.sco__select{
+    /* Figure */
+    
+    width: 35%;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #919191;
+    border-radius: 10px;
+    border-color:#919191;
+    display:block;
+    float: left;
+    margin-top: 3px;
+    margin-right: 20px;
+    
+     /* Text */
+     text-align: left;
+     font-family:  'Reem Kufi';
+     font-style: normal;
+     font-size: 14px;
+     color:#000000;
+     cursor: pointer;
+     padding-left: 30px;
+     padding-right: 55px;
+}
+
+.sco__mark{
+    /* Images */
+    width: 20px;
+    margin-top: 8px;
+    margin-left: 5px;
+    position:absolute;
+    float: left;
+    cursor: pointer;
+}
+.sco__tria{
+    /* Images */
+    width: 20px;
+    margin: 5px 5px 5px 5px;
+    position:absolute;
+    float: right;
+    cursor: pointer;
+}
+

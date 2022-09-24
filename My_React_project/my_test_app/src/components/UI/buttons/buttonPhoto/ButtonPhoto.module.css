@@ -1,0 +1,23 @@
+.bp__frame{
+    /* icon */
+    position: absolute;
+    height: 54px;
+    float: left;
+    margin-top: 8px;
+    border-radius: 50%;
+}
+.bp__images{
+    position: relative;
+    height: 46px;
+    float: top;
+    margin-top: 12px;
+    margin-left: 4.5px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.bp__consist{
+    position: relative;
+    float: right;
+    margin-left: 2px;
+    cursor: pointer;
+}

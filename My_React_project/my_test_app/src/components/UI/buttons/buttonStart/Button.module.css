@@ -1,0 +1,18 @@
+.btn__start{
+    /* Figure */
+    position: absolute;
+    width: 356px;
+    height: 31px;
+    background: #0A66C2;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: 0px;
+    box-shadow: 0px 4px 4px 0px;
+    /* Text */
+    position: absolute;
+    font-family: 'Eras Bold ITC';
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+

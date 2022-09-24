@@ -1,0 +1,16 @@
+.cbr__bar{
+    /* Form line */
+    margin-top: -2px;
+    float: right;
+    width: calc(100% - 225px); ;
+    border: 0px;
+    height: 36px;
+    background: #EF8F00;
+
+    font-family: 'Eras Bold ITC';
+    font-style: normal;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #FFFFFF;
+}

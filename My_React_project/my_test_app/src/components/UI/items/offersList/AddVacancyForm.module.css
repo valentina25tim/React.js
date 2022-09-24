@@ -1,0 +1,76 @@
+
+.addvac__frame{
+    background:#B1CAD4; 
+    border-radius: 15px;
+    width: 50%;
+    height: 366px;
+    position: absolute;
+    top: 25%;
+    left: 25%;
+}
+.addvac__form{
+    background:#FFFAFA;
+    width: calc(100% - 16px);
+    height: 316px;
+    position: absolute;
+    top: 30px;
+    left: 8px;
+}
+.addvac__title{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 56px;
+    text-align: center;
+    color:  #919191;
+}
+.addvac__horiz{
+    position: absolute;
+    border: 0px;
+    background: #B1CAD4;
+    height: 8px;
+    width: 100%;
+    top: 50px;
+    left: 0px;
+}
+.addvac__div_input{
+    padding: 25px;
+    width: 100%;
+    height: calc(100% - 58px);
+    position: absolute;
+    top: 58px;
+    left: 0px;
+}
+.addvac__text_inside{
+    font-family: 'Akshar';
+    font-style: italic;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: top;
+    color:  #E22C2C;
+}
+.addvac__question{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 12px;
+    text-align: center;
+    color:  #919191;
+    line-height: 130px;
+}
+.addvac__link_text{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    text-align: center;
+    color: #0A66C2;
+    text-decoration: underline;
+    
+    position: absolute;
+    border: 0px;
+    background:#FFFFFF;
+    top: 280px;
+    cursor: pointer;
+    width: 50%;
+    left: 25%;
+}
+

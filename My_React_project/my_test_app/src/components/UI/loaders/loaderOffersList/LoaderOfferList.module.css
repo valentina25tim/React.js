@@ -1,0 +1,16 @@
+.lol{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 4px dashed #2D9900;
+    animation: rotate 2s infinite linear;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg) scale(1);
+    }
+    to {
+        transform: rotate(360deg) scale(2);
+    }
+}

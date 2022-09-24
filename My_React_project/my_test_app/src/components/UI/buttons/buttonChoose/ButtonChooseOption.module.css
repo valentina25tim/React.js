@@ -1,0 +1,31 @@
+
+.btn__choose_option{
+    /* Figure */
+    box-sizing: border-box;
+    width: 173px;
+    height: 31px;
+    background: #FFFFFF;
+    border: 1px solid #919191;
+    border-radius: 10px;
+    border-color:#919191;
+}
+.btn__choose_text{
+    /* Text */
+    width: 173px;
+    height: 31px;
+    text-align: left;
+    margin-left: 1px;
+    font-family: 'Reem Kufi';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+}
+.btn__images{
+    /* Images */
+    width: 21px;
+    transform: matrix(1, 0, 0, -1, 0, 0);
+    float: right;
+    margin-top: 5px;
+}
+   

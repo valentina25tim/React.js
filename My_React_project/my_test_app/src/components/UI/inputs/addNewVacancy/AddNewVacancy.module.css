@@ -1,0 +1,23 @@
+.anv__input{
+    /* Figure */
+    
+    width: 400px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #919191;
+    border-radius: 10px;
+    border-color:#919191;
+
+     /* Text */
+     text-align: left;
+     margin-left: 4px;
+     font-family:  'Reem Kufi';
+     font-style: normal;
+     font-size: 20px;
+     color:#000000;
+     cursor: pointer;
+     padding-right: 32px;
+}
+
+
+

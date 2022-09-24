@@ -1,0 +1,17 @@
+.bav__add{
+    /* Figure */
+    width: calc(28% + 16px);
+    height: 30px;
+    background: #FFFFFF;;
+    border-radius: 10px;
+    border: 2px solid #0A66C2;
+    float: right;
+    margin: 8px 8px 8px 8px;
+
+    /* Text */
+    font-family: 'Eras Bold ITC';
+    font-style: normal;
+    font-size: 20px;
+    color: #0A66C2;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.btn__look_info{
+    /* Figure */
+    position: relative;
+    width: 30%;
+    height: 30px;
+    background: #CECECE;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.15);
+    border-radius: 10px;
+    border: 0px;
+    float: left;
+    margin-top: 3px;
+    margin-right: 20px;
+    
+    /* Text */
+    font-family: 'Eras Bold ITC';
+    font-style: normal;
+    font-size: 20px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+

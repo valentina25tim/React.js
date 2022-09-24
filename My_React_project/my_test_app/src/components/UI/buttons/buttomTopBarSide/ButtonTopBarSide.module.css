@@ -1,0 +1,14 @@
+.btb__images{
+    /* home, notice, chats */
+    height: 35px;
+    float: top;
+    margin: 8px 0px 0px 0px;
+}
+.bs__search_text{
+    /*home, notice, chats */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color: #919191;
+    text-align: center;
+}

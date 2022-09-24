@@ -1,0 +1,402 @@
+.pp__person{
+    float: left;
+    width: calc(100% - 235px);
+    height: 100px;
+    background: #FFFFFF;
+    border: 0px ;
+    padding: 20px 10px 10px 10px;
+}
+.pp__paggination{
+    justify-content: center;
+}
+.pp__titles{
+    font-size: 16px;
+    text-align: left;
+    font-family: 'Akshar';
+    font-style: normal;
+    color: #919191;
+}
+.pp__horiz{
+    position: absolute;
+    border: 0px;
+    background:#CECECE;
+    height: 10px;
+    width: calc(100% - 225px);
+    left: 225px;
+    top: 200px;
+}
+.pp__form_title_table{
+    position:absolute;
+    height: 95px;
+    width: calc(100% - 225px);
+    background-color:  #FFFFFF;
+    left: 225px;
+    top: 210px;
+}
+.pp__form_table{
+    position:absolute;
+    width: calc(100% - 225px);
+    background-color:  #FFFFFF;
+    left: 225px;
+    top: 305px;
+}
+.pp__bottom_bar{
+    float: right;
+    border: 0px;
+    width: 100%;
+    height: 75px;
+    bottom: 147px;
+    position: relative;
+}
+.pp__table_hr1{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 1px;
+    width: 100%;
+    left: 0px;
+    top: 95px;
+}
+.pp__table_hr2{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 1px;
+    width: 74.5%;
+    left: 18.5%;
+    top: 65px;
+}
+.pp__table_v1{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 5.5%;
+    top: 0px;
+}
+.pp__table_v2{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 18.5%;
+    top: 0px;
+}
+.pp__table_v3{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 30.5%;
+    top: 0px;
+}
+.pp__table_v4{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 43%;
+    top: 0px;
+}
+.pp__table_v5{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 55.5%;
+    top: 0px;
+}
+.pp__table_v6{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 68%;
+    top: 0px;
+}
+.pp__table_v7{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 80.5%;
+    top: 0px;
+}
+.pp__table_v8{
+    position: absolute;
+    display: flex;
+    border: 0px;
+    background:#CECECE;
+    height: 95px;
+    width: 1px;
+    left: 93%;
+    top: 0px;
+}
+.pp__col1{
+    /* Figure */
+    position: absolute;
+    width: 5.5%;
+    height: 95px;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    display: flex;
+    align-items: center;
+}
+.pp__col2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 13%;
+    height: 95px;
+    left: 5.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col3_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12%;
+    height: 65px;
+    top: 0px;
+    left: 18.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col3_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12%;
+    height: 30px;
+    top: 65px;
+    left: 18.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col4_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 65px;
+    top: 0px;
+    left: 30.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col4_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 30px;
+    top: 65px;
+    left: 30.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col5_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 65px;
+    top: 0px;
+    left: 43%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col5_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 30px;
+    top: 65px;
+    left: 43%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col6_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12%;
+    height: 65px;
+    top: 0px;
+    left: 55%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col6_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12%;
+    height: 30px;
+    top: 65px;
+    left: 55%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col7_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 13%;
+    height: 65px;
+    top: 0px;
+    left: 68%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col7_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 13%;
+    height: 30px;
+    top: 65px;
+    left: 68%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col8_1{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 65px;
+    top: 0px;
+    left: 80.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col8_2{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 12.5%;
+    height: 30px;
+    top: 65px;
+    left: 80.5%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+.pp__col9{
+    /* Figure */
+    position: absolute;
+    display: flex;
+    width: 7%;
+    height: 95px;
+    top: 0px;
+    left: 93%;
+    justify-content: center;
+    /* Text */
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    color:#919191;
+    align-items: center;
+    text-align: center;
+}
+

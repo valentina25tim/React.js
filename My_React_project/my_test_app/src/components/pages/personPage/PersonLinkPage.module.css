@@ -1,0 +1,135 @@
+.pc__frame{
+    background:#B1CAD4; 
+    border-radius: 15px;
+    width: 815px;
+    min-height: 500px;
+    position: absolute;
+    top: 130px;
+    left: calc(50% - 290px);
+    z-index:5;
+}
+.pc__option{
+    width: calc(100% - 16px);
+    height: 30px;
+    top: 0px;
+}
+.pc__option_buttons{
+    float: right;
+    width: 20px;
+    margin-top: 5px;
+    margin-left: 18px;
+    position:relative;
+    cursor: pointer;
+    margin-right: -5px;
+}
+.pc__form{
+    background:#FFFAFA;
+    width: calc(100% - 16px);
+    height: 450px;
+    position: absolute;
+    padding: 0px 10px 10px 10px;
+    top: 30px;
+    left: 8px;
+}
+.pc__title{
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 18px;
+    line-height: 56px;
+    text-align: left;
+    color:  #919191;
+}
+.pc__horiz_1{
+    position: absolute;
+    border: 0px;
+    background: #B1CAD4;
+    height: 6px;
+    width: 100%;
+    top: 40px;
+    left: 0px;
+}
+.pc__horiz_2{
+    position: absolute;
+    border: 0px;
+    background: #B1CAD4;
+    height: 2px;
+    width: 100%;
+    top: 182px;
+    left: 0px;
+}
+.pc__icon{
+    position: absolute;
+    border: 0px;
+    height: 116px;
+    width: 116px;
+    top: 46px;
+    left: 0px;
+    margin: 10px 10px 10px 10px;
+}
+.pc_strip1_col1{
+    position: absolute;
+    width: 150px;
+    height: 136px;
+    left: 136px;
+}
+.pc_strip1_col2{
+    position: absolute;
+    width: 150px;
+    height: 136px;
+    left: 436px;
+}
+.pc__text_options_1{
+    position: relative;
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: top;
+    color:   #919191;
+    margin: 10px 10px 10px 0px;
+}
+.pc__text_options_2{
+    position: relative;
+    font-family: 'Akshar';
+    font-style: normal;
+    font-size: 14px;
+    text-align: left;
+    vertical-align: top;
+    color:   #919191;
+    margin: 10px 0px 10px 0px;
+}
+.pc_strip1_col1_value{
+    position: absolute;
+    width: 286px;
+    height: 136px;
+    left: 236px;
+    top: 51px;
+}
+.pc_strip1_col2_value{
+    position: absolute;
+    width: 286px;
+    height: 136px;
+    left: 536px;
+    top: 51px;
+}
+.pc__text_value_1{
+    position: relative;
+    font-family: 'Reem Kufi';
+    font-style: normal;
+    font-size: 16px;
+    text-align: left;
+    vertical-align: top;
+    color:    #000000;
+    margin: 10px 10px 10px 0px;
+}
+.pc__text_value_2{
+    position: relative;
+    font-family: 'Reem Kufi';
+    font-style: normal;
+    font-size: 16px;
+    text-align: left;
+    vertical-align: top;
+    color:    #000000;
+    margin: 10px 0px 10px 0px;
+}
+

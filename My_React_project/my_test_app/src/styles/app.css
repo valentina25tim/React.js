@@ -1,0 +1,33 @@
+#root {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    width: 100%;
+}
+.offer-enter {
+    opacity: 0;
+}
+
+.offer-enter-active {
+    opacity: 1;
+    transition: opacity 800ms ease-in;
+}
+
+.offer-exit {
+    opacity: 1;
+}
+
+.offer-exit-active {
+    opacity: 0;
+    transition: opacity 800ms ease-in;
+}
+
+
+    
